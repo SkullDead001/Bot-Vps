@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'GataBot 🐈'
+global 04263874666 .packname = 'GataBot 🐈'
 global.author = 'Gata Dios'
 
 
